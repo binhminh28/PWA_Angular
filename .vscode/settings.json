@@ -1,0 +1,8 @@
+{
+    "appService.deploySubpath": "dist\\UtilitiesApp",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2f080167-df9b-4dd4-b470-3eb8e471c794/resourceGroups/PWA/providers/Microsoft.Web/sites/PWA-Angular"
+}
